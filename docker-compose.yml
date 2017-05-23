@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+    performance:
+        container_name: "performance"
+        build: ./images/performance
+        volumes:
+            - ./data/performance:/home/performance
