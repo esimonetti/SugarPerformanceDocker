@@ -1,4 +1,4 @@
-# Sugar Performance
+# Sugar Performance Docker
 This repository will help you deploy a basic Docker image to complete performance testing with jmeter, loading records with a java based tool like Talend etc.
 
 ## Running the stack
